@@ -5,5 +5,5 @@ Generative Adversarial Nets have been a big hit on data reconstruction, especial
 **Original Models**  
 ![](Images/theNewOriginalBand.jpg)
 
-**Generated Models with wGAN**  
+**Generated Models with FwGAN**  
 ![](Images/wSamplesAll.jpg)
